@@ -1,2 +1,0 @@
-# CreatedGame
-ゲーム作品
